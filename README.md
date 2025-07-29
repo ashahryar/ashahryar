@@ -43,7 +43,6 @@ This profile is my digital notebook where I share what I learn, build mini-proje
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/shahryar-ahmed-3b5564274)
 - [Email](mailto:ashahryar200@gmail.com)
-- 📱 0326-2144889
 
 ---
 

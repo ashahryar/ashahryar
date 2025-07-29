@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahryar Ahmed
 
-🎓 Cloud Computing Student | 💻 Aspiring Cloud & Data Engineer | 📚 Currently Learning AWS, Spark, Kafka, Airflow & Snowflake
+🎓 Cloud Computing Student | 💻 Cloud & Data Engineer | 📚 Currently Learning AWS, Spark, Kafka, Airflow & Snowflake
 
 ---
 
